@@ -3,7 +3,7 @@
 ##### Instructor: Christopher Gandrud
 ##### Fall 2014
 ##### Assignment 1
-##### Kyle Ott & Cornelius Scheider
+##### Kyle Ott & Cornelius Scheider (student id?)
 ##### 26 September 2014
 
 **Version: *26 September 2014***
