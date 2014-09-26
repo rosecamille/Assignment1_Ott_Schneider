@@ -15,6 +15,8 @@
 
 - The R script file to run first is Run_This.R. This contains the dynamic link to women.R and also the R code for precipitation data.
 
+> Style guide: We use Hadley Wickham´s Style Guide from [r-pkgs.had.co.nz/style.html](http://r-pkgs.had.co.nz/style.html).
+
 - women.R looks at and explores a dataset with the average height and weight of US women.
 
 - Run_This.R looks at and explores a dataset of the average annual rainfall (precipiation) of 70 US cities.
